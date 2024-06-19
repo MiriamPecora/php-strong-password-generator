@@ -17,9 +17,5 @@
             <button type="submit">Genera password</button>
         </form>
 
-        <div>
-            <p><?php echo "La tua password è: " . generatePassword($char_number); ?></p>
-        </div>
-
     </body>
 </html>
